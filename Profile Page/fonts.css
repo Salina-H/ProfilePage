@@ -1,0 +1,30 @@
+@font-face {
+	font-family: 'cute';
+	src: url(fonts/cute.ttf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'main';
+	src: url(fonts/seguibl.ttf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'calmMain';
+	src: url(fonts/Segoe.ttf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'anon';
+	src: url(fonts/anonymous-pro.bold.ttf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'anon';
+	src: url(fonts/anonymous-pro.regular.ttf);
+	font-style: normal;
+	font-weight: bold;
+}

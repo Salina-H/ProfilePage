@@ -1,0 +1,125 @@
+p.brown{
+	border-left: 2px solid rgb(181,137,142);
+}
+p.intro{
+	width: 700px;
+	margin: 20px 0px 0px 5px;
+	padding-left: 10px;
+}
+div.intro{
+	margin: 140px 20px 0px 20px;
+	float: left;
+}
+img.hihi{
+	float: right;
+	width: 20vw;
+	margin-right: 5vw;
+	margin-top: 200px;
+}
+img.arrow1{
+	width: 90px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+	padding-top: 80px;
+}
+img.arrow2{
+	width: 90px;
+	float: left;
+	margin-bottom: 100px;
+	padding-top: 190px;
+	margin-left: 25vw;
+}
+img.arrow3{
+	width: 90px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+	padding-top: 40px;
+}
+html{
+	scroll-behavior: smooth;
+}
+
+li.head{
+	font-size: 55;
+	color:rgb(190,156,160);
+	font-family: 'main', Segoe UI Black, Helvetica, sans-serif;
+}
+li.stats{
+	margin-top: 300px;
+	margin-left: 70px;
+}
+li.likey, li.hobbies{
+	padding-top: 55px;
+	margin-left: 50px;
+}
+
+span.head{
+	position: relative;
+	left: -40px;
+}
+
+ul.stats{
+	width: 500px;
+	padding: 40px 0px 30px 90px;
+	color:rgb(181,137,142);
+	background-color: white;
+	list-style: none;
+	font-family: 'cute', Brush Script MT;
+	font-size: 40;
+	border-radius: 50px;
+}
+
+div.hobbyflexbox{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+img.hobby{
+	margin-top: 40px;
+	width: 22vw;
+	position: relative;
+	left:3.9vw;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+div.centered{
+	text-align: center;
+	color: white;
+	font-size: 40;
+	font-family: 'cute', Brush Script MT;
+}
+div.hobby{
+	background-color: rgb(200,166,170);
+	border-radius: 20%;
+	padding-bottom: 0;
+	transition-duration: 0.4s;
+}
+div.hobby:hover{
+	background-color: transparent;
+}
+h2{
+	margin-top: 10;
+	margin-bottom: 15;
+	width: 30vw;
+	font-weight: normal;
+	display: inline-block;
+	align-self: flex-end;
+}
+
+div.likey{
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin: 10;
+}
+
+p.likey{
+	text-align: center;
+	width: 30vw;
+	font-size: 70;
+}
